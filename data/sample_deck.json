@@ -1,0 +1,126 @@
+  {
+    "id": "d-swsh1-1",
+    "name": "Rillaboom",
+    "types": ["Grass"],
+    "cards": [
+      {
+        "id": "swsh1-15",
+        "name": "Rillaboom",
+        "rarity": "Rare Holo",
+        "count": 1
+      },
+      {
+        "id": "swsh1-15",
+        "name": "Rillaboom",
+        "rarity": "Rare",
+        "count": 1
+      },
+      {
+        "id": "swsh1-13",
+        "name": "Thwackey",
+        "rarity": "Uncommon",
+        "count": 3
+      },
+      {
+        "id": "swsh1-11",
+        "name": "Grookey",
+        "rarity": "Common",
+        "count": 3
+      },
+      {
+        "id": "swsh1-21",
+        "name": "Eldegoss",
+        "rarity": "Uncommon",
+        "count": 2
+      },
+      {
+        "id": "swsh1-20",
+        "name": "Gossifleur",
+        "rarity": "Common",
+        "count": 3
+      },
+      {
+        "id": "swsh1-6",
+        "name": "Whimsicott",
+        "rarity": "Rare",
+        "count": 2
+      },
+      {
+        "id": "swsh1-5",
+        "name": "Cottonee",
+        "rarity": "Common",
+        "count": 3
+      },
+      {
+        "id": "swsh1-7",
+        "name": "Maractus",
+        "rarity": "Common",
+        "count": 2
+      },
+      {
+        "id": "swsh1-140",
+        "name": "Snorlax",
+        "rarity": "Rare",
+        "count": 2
+      },
+      {
+        "id": "swsh1-164",
+        "name": "Great Ball",
+        "rarity": "Uncommon",
+        "count": 4
+      },
+      {
+        "id": "swsh1-165",
+        "name": "Hop",
+        "rarity": "Uncommon",
+        "count": 4
+      },
+      {
+        "id": "swsh1-171",
+        "name": "Ordinary Rod",
+        "rarity": "Uncommon",
+        "count": 1
+      },
+      {
+        "id": "swsh1-173",
+        "name": "Poké Kid",
+        "rarity": "Uncommon",
+        "count": 2
+      },
+      {
+        "id": "swsh1-174",
+        "name": "Pokégear 3.0",
+        "rarity": "Uncommon",
+        "count": 1
+      },
+      {
+        "id": "swsh1-176",
+        "name": "Pokémon Center Lady",
+        "rarity": "Uncommon",
+        "count": 1
+      },
+      {
+        "id": "swsh1-177",
+        "name": "Potion",
+        "rarity": "Uncommon",
+        "count": 2
+      },
+      {
+        "id": "swsh1-178",
+        "name": "Professor's Research",
+        "rarity": "Uncommon",
+        "count": 3
+      },
+      {
+        "id": "swsh1-183",
+        "name": "Switch",
+        "rarity": "Uncommon",
+        "count": 2
+      },
+      {
+        "id": "sm1-164",
+        "name": "Grass Energy",
+        "count": 18
+      }
+    ]
+  }  
