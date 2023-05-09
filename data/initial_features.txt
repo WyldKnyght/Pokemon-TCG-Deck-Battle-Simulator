@@ -1,0 +1,15 @@
+Use free or open-source resources to create a machine learning model AI.
+Research any previous open source or free Pokemon TCG apps and or codes that may help with the development of this project.
+Collect data on Pokemon TCG cards and sets from various sources, including online TCG forums, tournaments, and user-generated content.
+Create a database of Pokemon TCG Theme Decks, V Battle Decks, League Battle Decks.
+Clean and preprocess the collected data to remove any inconsistencies or outliers.
+Choose an appropriate machine learning model that can simulate battles and predict outcomes.
+Train the machine learning model using the preprocessed data.
+Evaluate the trained model's performance by testing it on new data and comparing its predictions with the actual outcomes.
+Develop a user-friendly application GUI Interface for importing deck.
+Allow the player to import via copy and paste using the Pokemon TCG Online Export format.
+Allow the player to choose to import the opponent's deck or have the model select a random premade deck.
+Simulate 1000 battles or more if additional analysis is required.
+Analyze the play and results and suggest ways to upgrade the decks to be more efficient and effective.
+Suggest strategies to increase the odds of winning the game.
+Ensure proper documentation throughout the project.
